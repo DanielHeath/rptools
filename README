@@ -1,0 +1,3 @@
+Set of tools to work with characters downloaded in XML format from dndsheets.net (any character profiler based site should also work).
+For instance, to roll 1d20 for each character and add their perception modifier, run 'notice_checks.rb'.
+Sample data is included (from my players)
