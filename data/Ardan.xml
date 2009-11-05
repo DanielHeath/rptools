@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE character PUBLIC "-//rpgprofiler.net//DTD 3EProfiler 1.0//EN"
+  "http://www.rpgprofiler.net/2003/3EProfiler.dtd">
+<character xmlns="http://www.rpgprofiler.net/2003/3EProfiler">
+  <source>http://www.dndsheets.net/</source>
+  <cname>Ardan</cname>
+  <template>Pathfinder Beta</template>
+  <public>y</public>
+  <data>
+    <node name="firstload">false</node>
+    <node name="LastSaveDate">22 October 2009 19:50:35</node>
+    <node name="Name">Ardan Garwain</node>
+    <node name="Player">Robert</node>
+    <node name="Campaign">Daniel's</node>
+    <node name="XPCurrent">3000</node>
+    <node name="XPNext">6000</node>
+    <node name="Class">Sorcerer</node>
+    <node name="Race">Human (Hermean)</node>
+    <node name="Alignment">Chaotic Good</node>
+    <node name="Deity">None</node>
+    <node name="Level">2</node>
+    <node name="Size">Medium</node>
+    <node name="Age">22</node>
+    <node name="Gender">Male</node>
+    <node name="Height">6'2&quot;</node>
+    <node name="Weight">50kg</node>
+    <node name="Eyes">Gold</node>
+    <node name="Hair">Blonde</node>
+    <node name="Str">9</node>
+    <node name="StrMod">-1</node>
+    <node name="Dex">14</node>
+    <node name="DexMod">+2</node>
+    <node name="Con">13</node>
+    <node name="ConMod">+1</node>
+    <node name="Int">16</node>
+    <node name="IntMod">+3</node>
+    <node name="Wis">10</node>
+    <node name="WisMod">0</node>
+    <node name="Cha">18</node>
+    <node name="ChaMod">+4</node>
+    <node name="AP">CMD 12</node>
+    <node name="HP">11</node>
+    <node name="HPWounds">11</node>
+    <node name="AC">13</node>
+    <node name="ACArmor">0</node>
+    <node name="ACShield">0</node>
+    <node name="ACOther">0</node>
+    <node name="ACDex">2</node>
+    <node name="ACSize">0</node>
+    <node name="ACNat">0</node>
+    <node name="ACDeflect">0</node>
+    <node name="ACMisc">1</node>
+    <node name="TouchAC">13</node>
+    <node name="FFAC">11</node>
+    <node name="Init">+2</node>
+    <node name="InitDex">2</node>
+    <node name="InitMisc">0</node>
+    <node name="Speed">30ft</node>
+    <node name="Armor">None</node>
+    <node name="TotalWeight">4.0</node>
+    <node name="LightLoad">30</node>
+    <node name="MediumLoad">60</node>
+    <node name="HeavyLoad">90</node>
+    <node name="LiftOverHead">90</node>
+    <node name="LiftOffGround">180</node>
+    <node name="LiftPushDrag">450</node>
+    <node name="Fort">+1</node>
+    <node name="FortBase">0</node>
+    <node name="FortAbility">1</node>
+    <node name="FortMagic">0</node>
+    <node name="FortMisc">0</node>
+    <node name="FortTemp">0</node>
+    <node name="Reflex">+2</node>
+    <node name="ReflexBase">0</node>
+    <node name="ReflexAbility">2</node>
+    <node name="ReflexMagic">0</node>
+    <node name="ReflexMisc">0</node>
+    <node name="ReflexTemp">0</node>
+    <node name="Will">+3</node>
+    <node name="WillBase">3</node>
+    <node name="WillAbility">0</node>
+    <node name="WillMagic">0</node>
+    <node name="WillMisc">0</node>
+    <node name="WillTemp">0</node>
+    <node name="MBAB">+0</node>
+    <node name="MABBase">1</node>
+    <node name="MABStr">-1</node>
+    <node name="MABSize">0</node>
+    <node name="MABMisc">0</node>
+    <node name="MABTemp">0</node>
+    <node name="GBAB">+0</node>
+    <node name="GABStr">-1</node>
+    <node name="GABSize">0</node>
+    <node name="GABMisc">0</node>
+    <node name="GABTemp">0</node>
+    <node name="RBAB">+3</node>
+    <node name="RABBase">1</node>
+    <node name="RABDex">2</node>
+    <node name="RABSize">0</node>
+    <node name="RABMisc">0</node>
+    <node name="RABTemp">0</node>
+    <node name="Wep1Disp">on</node>
+    <node name="Wep2Disp">on</node>
+    <node name="Weapon1">Quarterstaff</node>
+    <node name="Weapon1Wielded">on</node>
+    <node name="Weapon1Carried">on</node>
+    <node name="Weapon1AB">0</node>
+    <node name="Weapon1Damage">1d6</node>
+    <node name="Weapon11Crit">x2</node>
+    <node name="Weapon1Range">-</node>
+    <node name="Weapon1Ammo">-</node>
+    <node name="Weapon1Weight">4</node>
+    <node name="Weapon1Size">M</node>
+    <node name="Weapon1Type">B</node>
+    <node name="Weapon2">Gold Dragon Claws</node>
+    <node name="Weapon2AB">0</node>
+    <node name="Weapon2Damage">1d4/1d4</node>
+    <node name="Weapon21Crit">x2</node>
+    <node name="Weapon2Range">-</node>
+    <node name="Weapon2Special">Use Rounds = 3+Cha Mod (8) (Supernatural Ability)</node>
+    <node name="Weapon2Ammo">-</node>
+    <node name="Weapon2Weight">-</node>
+    <node name="Weapon2Size">M</node>
+    <node name="Weapon2Type">Sl</node>
+    <node name="MaxRank">2</node>
+    <node name="MaxRankCC">2</node>
+    <node name="Skill01">Acrobatics</node>
+    <node name="Skill01Ab">Dex</node>
+    <node name="Skill01Mod">+2</node>
+    <node name="Skill01AbMod">2</node>
+    <node name="Skill01Rank">0</node>
+    <node name="Skill01MiscMod">0</node>
+    <node name="Skill01CheckPen">0</node>
+    <node name="Skill02">Appraise</node>
+    <node name="Skill02Ab">Int</node>
+    <node name="Skill02Mod">+4</node>
+    <node name="Skill02AbMod">3</node>
+    <node name="Skill02Rank">0</node>
+    <node name="Skill02MiscMod">1</node>
+    <node name="Skill02CheckPen">0</node>
+    <node name="Skill03">Bluff</node>
+    <node name="Skill03Ab">Cha</node>
+    <node name="Skill03Mod">+4</node>
+    <node name="Skill03AbMod">4</node>
+    <node name="Skill03Rank">0</node>
+    <node name="Skill03MiscMod">0</node>
+    <node name="Skill03CheckPen">0</node>
+    <node name="Skill04">Climb</node>
+    <node name="Skill04Ab">Str</node>
+    <node name="Skill04Mod">+0</node>
+    <node name="Skill04AbMod">-1</node>
+    <node name="Skill04Rank">1</node>
+    <node name="Skill04MiscMod">0</node>
+    <node name="Skill04CheckPen">0</node>
+    <node name="Skill05">Craft</node>
+    <node name="Skill05Ab">Int</node>
+    <node name="Skill05Mod">+4</node>
+    <node name="Skill05AbMod">3</node>
+    <node name="Skill05Rank">0</node>
+    <node name="Skill05MiscMod">1</node>
+    <node name="Skill05CheckPen">0</node>
+    <node name="Skill06">Diplomacy</node>
+    <node name="Skill06Ab">Cha</node>
+    <node name="Skill06Mod">+5</node>
+    <node name="Skill06AbMod">4</node>
+    <node name="Skill06Rank">1</node>
+    <node name="Skill06MiscMod">0</node>
+    <node name="Skill06CheckPen">0</node>
+    <node name="Skill07">Disable Device</node>
+    <node name="Skill07Ab">Int</node>
+    <node name="Skill07Mod">+4</node>
+    <node name="Skill07AbMod">3</node>
+    <node name="Skill07Rank">0</node>
+    <node name="Skill07MiscMod">1</node>
+    <node name="Skill07CheckPen">0</node>
+    <node name="Skill08">Disguise</node>
+    <node name="Skill08Ab">Cha</node>
+    <node name="Skill08Mod">+4</node>
+    <node name="Skill08AbMod">4</node>
+    <node name="Skill08Rank">0</node>
+    <node name="Skill08MiscMod">0</node>
+    <node name="Skill08CheckPen">0</node>
+    <node name="Skill09">Escape Artist</node>
+    <node name="Skill09Ab">Dex</node>
+    <node name="Skill09Mod">+2</node>
+    <node name="Skill09AbMod">2</node>
+    <node name="Skill09Rank">0</node>
+    <node name="Skill09MiscMod">0</node>
+    <node name="Skill09CheckPen">0</node>
+    <node name="Skill10">Fly</node>
+    <node name="Skill10Ab">Dex</node>
+    <node name="Skill10Mod">+2</node>
+    <node name="Skill10AbMod">2</node>
+    <node name="Skill10Rank">0</node>
+    <node name="Skill10MiscMod">0</node>
+    <node name="Skill10CheckPen">0</node>
+    <node name="Skill11">Handle Animal</node>
+    <node name="Skill11Ab">Cha</node>
+    <node name="Skill11Mod">+4</node>
+    <node name="Skill11AbMod">4</node>
+    <node name="Skill11Rank">0</node>
+    <node name="Skill11MiscMod">0</node>
+    <node name="Skill11CheckPen">0</node>
+    <node name="Skill12">Heal</node>
+    <node name="Skill12Ab">Wis</node>
+    <node name="Skill12Mod">+0</node>
+    <node name="Skill12AbMod">0</node>
+    <node name="Skill12Rank">0</node>
+    <node name="Skill12MiscMod">0</node>
+    <node name="Skill12CheckPen">0</node>
+    <node name="Skill13">Intimidate</node>
+    <node name="Skill13Ab">Cha</node>
+    <node name="Skill13Mod">+4</node>
+    <node name="Skill13AbMod">4</node>
+    <node name="Skill13Rank">0</node>
+    <node name="Skill13MiscMod">0</node>
+    <node name="Skill13CheckPen">0</node>
+    <node name="Skill14">Knowledge: Arcana</node>
+    <node name="Skill14Ab">Int</node>
+    <node name="Skill14CC">on</node>
+    <node name="Skill14Mod">+8</node>
+    <node name="Skill14AbMod">3</node>
+    <node name="Skill14Rank">1</node>
+    <node name="Skill14MiscMod">4</node>
+    <node name="Skill14CheckPen">0</node>
+    <node name="Skill15">Knowledge: Architecture</node>
+    <node name="Skill15Ab">Int</node>
+    <node name="Skill15Mod">+4</node>
+    <node name="Skill15AbMod">3</node>
+    <node name="Skill15Rank">0</node>
+    <node name="Skill15MiscMod">1</node>
+    <node name="Skill15CheckPen">0</node>
+    <node name="Skill16">Knowledge: Dungeoneering</node>
+    <node name="Skill16Ab">Int</node>
+    <node name="Skill16Mod">+5</node>
+    <node name="Skill16AbMod">3</node>
+    <node name="Skill16Rank">1</node>
+    <node name="Skill16MiscMod">1</node>
+    <node name="Skill16CheckPen">0</node>
+    <node name="Skill17">Knowledge: Geography</node>
+    <node name="Skill17Ab">Int</node>
+    <node name="Skill17Mod">+5</node>
+    <node name="Skill17AbMod">3</node>
+    <node name="Skill17Rank">1</node>
+    <node name="Skill17MiscMod">1</node>
+    <node name="Skill17CheckPen">0</node>
+    <node name="Skill18">Knowledge: History</node>
+    <node name="Skill18Ab">Int</node>
+    <node name="Skill18Mod">+5</node>
+    <node name="Skill18AbMod">3</node>
+    <node name="Skill18Rank">1</node>
+    <node name="Skill18MiscMod">1</node>
+    <node name="Skill18CheckPen">0</node>
+    <node name="Skill19">Knowledge: Local</node>
+    <node name="Skill19Ab">Int</node>
+    <node name="Skill19Mod">+4</node>
+    <node name="Skill19AbMod">3</node>
+    <node name="Skill19Rank">0</node>
+    <node name="Skill19MiscMod">1</node>
+    <node name="Skill19CheckPen">0</node>
+    <node name="Skill20">Knowledge: Nature</node>
+    <node name="Skill20Ab">Int</node>
+    <node name="Skill20Mod">+5</node>
+    <node name="Skill20AbMod">3</node>
+    <node name="Skill20Rank">1</node>
+    <node name="Skill20MiscMod">1</node>
+    <node name="Skill20CheckPen">0</node>
+    <node name="Skill21">Knowledge: Nobility</node>
+    <node name="Skill21Ab">Int</node>
+    <node name="Skill21Mod">+4</node>
+    <node name="Skill21AbMod">3</node>
+    <node name="Skill21Rank">0</node>
+    <node name="Skill21MiscMod">1</node>
+    <node name="Skill21CheckPen">0</node>
+    <node name="Skill22">Knowledge: Religion</node>
+    <node name="Skill22Ab">Int</node>
+    <node name="Skill22Mod">+5</node>
+    <node name="Skill22AbMod">3</node>
+    <node name="Skill22Rank">1</node>
+    <node name="Skill22MiscMod">1</node>
+    <node name="Skill22CheckPen">0</node>
+    <node name="Skill23">Knowledge: The Planes</node>
+    <node name="Skill23Ab">Int</node>
+    <node name="Skill23Mod">+5</node>
+    <node name="Skill23AbMod">3</node>
+    <node name="Skill23Rank">1</node>
+    <node name="Skill23MiscMod">1</node>
+    <node name="Skill23CheckPen">0</node>
+    <node name="Skill24">Linguistics</node>
+    <node name="Skill24Ab">Int</node>
+    <node name="Skill24Mod">+4</node>
+    <node name="Skill24AbMod">3</node>
+    <node name="Skill24Rank">0</node>
+    <node name="Skill24MiscMod">1</node>
+    <node name="Skill24CheckPen">0</node>
+    <node name="Skill25">Perception</node>
+    <node name="Skill25Ab">Wis</node>
+    <node name="Skill25CC">on</node>
+    <node name="Skill25Mod">+3</node>
+    <node name="Skill25AbMod">0</node>
+    <node name="Skill25Rank">0</node>
+    <node name="Skill25MiscMod">3</node>
+    <node name="Skill25CheckPen">0</node>
+    <node name="Skill26">Perform</node>
+    <node name="Skill26Ab">Cha</node>
+    <node name="Skill26Mod">+4</node>
+    <node name="Skill26AbMod">4</node>
+    <node name="Skill26Rank">0</node>
+    <node name="Skill26MiscMod">0</node>
+    <node name="Skill26CheckPen">0</node>
+    <node name="Skill27">Profession</node>
+    <node name="Skill27Ab">Wis</node>
+    <node name="Skill27Mod">+0</node>
+    <node name="Skill27AbMod">0</node>
+    <node name="Skill27Rank">0</node>
+    <node name="Skill27MiscMod">0</node>
+    <node name="Skill27CheckPen">0</node>
+    <node name="Skill28">Ride</node>
+    <node name="Skill28Ab">Dex</node>
+    <node name="Skill28Mod">+2</node>
+    <node name="Skill28AbMod">2</node>
+    <node name="Skill28Rank">0</node>
+    <node name="Skill28MiscMod">0</node>
+    <node name="Skill28CheckPen">0</node>
+    <node name="Skill29">Sense Motive</node>
+    <node name="Skill29Ab">Wis</node>
+    <node name="Skill29Mod">+0</node>
+    <node name="Skill29AbMod">0</node>
+    <node name="Skill29Rank">0</node>
+    <node name="Skill29MiscMod">0</node>
+    <node name="Skill29CheckPen">0</node>
+    <node name="Skill30">Sleight of Hand</node>
+    <node name="Skill30Ab">Dex</node>
+    <node name="Skill30Mod">+2</node>
+    <node name="Skill30AbMod">2</node>
+    <node name="Skill30Rank">0</node>
+    <node name="Skill30MiscMod">0</node>
+    <node name="Skill30CheckPen">0</node>
+    <node name="Skill31">Spellcraft</node>
+    <node name="Skill31Ab">Int</node>
+    <node name="Skill31CC">on</node>
+    <node name="Skill31Mod">+8</node>
+    <node name="Skill31AbMod">3</node>
+    <node name="Skill31Rank">1</node>
+    <node name="Skill31MiscMod">4</node>
+    <node name="Skill31CheckPen">0</node>
+    <node name="Skill32">Stealth</node>
+    <node name="Skill32Ab">Dex</node>
+    <node name="Skill32Mod">+2</node>
+    <node name="Skill32AbMod">2</node>
+    <node name="Skill32Rank">0</node>
+    <node name="Skill32MiscMod">0</node>
+    <node name="Skill32CheckPen">0</node>
+    <node name="Skill33">Survival</node>
+    <node name="Skill33Ab">Wis</node>
+    <node name="Skill33Mod">+1</node>
+    <node name="Skill33AbMod">0</node>
+    <node name="Skill33Rank">1</node>
+    <node name="Skill33MiscMod">0</node>
+    <node name="Skill33CheckPen">0</node>
+    <node name="Skill34">Swim</node>
+    <node name="Skill34Ab">Str</node>
+    <node name="Skill34Mod">+0</node>
+    <node name="Skill34AbMod">-1</node>
+    <node name="Skill34Rank">1</node>
+    <node name="Skill34MiscMod">0</node>
+    <node name="Skill34CheckPen">0</node>
+    <node name="Skill35">Use Magic Device</node>
+    <node name="Skill35Ab">Cha</node>
+    <node name="Skill35Mod">+4</node>
+    <node name="Skill35AbMod">4</node>
+    <node name="Skill35Rank">0</node>
+    <node name="Skill35MiscMod">0</node>
+    <node name="Skill35CheckPen">0</node>
+    <node name="Feat01">Hermean Blood (Intelligence)</node>
+    <node name="Feat02">Dodge</node>
+    <node name="Feat03">(Eschew Materials)</node>
+    <node name="Feat16">Draconic Bloodline: Gold</node>
+    <node name="Feat17">Fire spell damage: Each die +1</node>
+    <node name="Gear01">Backpack  </node>
+    <node name="Gear02">Bedroll  </node>
+    <node name="Gear03">Blanket  </node>
+    <node name="Gear04">Block and Tackle  </node>
+    <node name="Gear05">Bottle, Glass  </node>
+    <node name="Gear06">10x Candles  </node>
+    <node name="Gear07">Cases: Map and Scroll  </node>
+    <node name="Gear08">Crowbar  </node>
+    <node name="Gear09">Fishhook  </node>
+    <node name="Gear10">Fishing Net  </node>
+    <node name="Gear11">10x Flasks  </node>
+    <node name="Gear12">Flint and Steel  </node>
+    <node name="Gear13">Grappling Hook  </node>
+    <node name="Gear14">Hammer</node>
+    <node name="Gear15">Ink (1 oz. vial)</node>
+    <node name="Gear16">Oil (1-Pint flask)</node>
+    <node name="Gear17">20x Parchment Sheets</node>
+    <node name="Gear18">Rope (Silk 50ft)</node>
+    <node name="Gear19">Sack x4</node>
+    <node name="Gear20">Sewing needle</node>
+    <node name="Gear21">Signal whistle</node>
+    <node name="Gear22">Soap (1lb) </node>
+    <node name="Gear23">Tent  </node>
+    <node name="Gear24">Vial - Ink  </node>
+    <node name="Gear25">Waterskin x2</node>
+    <node name="Gear27">Vial of Antitoxin</node>
+    <node name="Gear29">Spell Components Pouch</node>
+    <node name="Gear30">4x Belt Pouch</node>
+    <node name="Gear32">Explorer's Outfit</node>
+    <node name="Gear34">Rations = 10 Days</node>
+    <node name="MagicDisp">on</node>
+    <node name="SpellDC0">14</node>
+    <node name="SpellPerDay0">-</node>
+    <node name="SpellDC1">15</node>
+    <node name="SpellPerDay1">3</node>
+    <node name="BonusSpells1">1</node>
+    <node name="SpellsKnown0">5</node>
+    <node name="SpellsKnown1">2</node>
+    <node name="Spell01">Acid Splash</node>
+    <node name="Spell01Level">0</node>
+    <node name="Spell02">Detect Magic</node>
+    <node name="Spell02Level">0</node>
+    <node name="Spell03">Mage Hand</node>
+    <node name="Spell03Level">0</node>
+    <node name="Spell04">Prestidigitation</node>
+    <node name="Spell04Level">0</node>
+    <node name="Spell05">Read Magic</node>
+    <node name="Spell05Level">0</node>
+    <node name="Spell31">Burning Hands</node>
+    <node name="Spell31Level">1</node>
+    <node name="Spell32">Sleep</node>
+    <node name="Spell32Level">1</node>
+    <node name="CashPP">0</node>
+    <node name="CashPPParty">0</node>
+    <node name="CashGP">164</node>
+    <node name="CashGPParty">0</node>
+    <node name="CashSP">7</node>
+    <node name="CashSPParty">0</node>
+    <node name="CashCP">9</node>
+    <node name="CashCPParty">0</node>
+    <node name="CashTotal">164.79</node>
+    <node name="CashTotalParty">0</node>
+    <node name="Cash">Factoring planned later purchases</node>
+    <node name="Notes">Planned Inventory
+
+2x Heavy Horse
+Wagon
+2x Chest
+2x Good Lock
+
+Rations = 10 Days
+
+Outfits:
+Cold Weather
+Courtier
+Explorer
+Scholar
+Traveler
+
+4x Belt Pouch
+Spell Components Pouch
+
+Vial of Antitoxin
+
+Backpack
+Bedroll
+Blanket
+Block and Tackle
+Bottle, Glass
+10x Candles
+Cases: Map and Scroll
+Crowbar
+Fishhook
+Fishing Net
+10x Flasks
+Flint and Steel
+Grappling Hook
+Hammer
+Hourglass
+Ink (1 oz. vial)
+Ladder
+Oil (1-Pint flask)
+10x Paper Sheets
+20x Parchment Sheets
+Piton
+Pole, 10ft
+Pot, iron
+Rope (Hemp 4x50ft)
+Rope (Silk 50ft)
+Sack x4
+Sealing wax
+Sewing needle
+Shovel
+Signal whistle
+Signet ring
+Soap (1lb)
+Tent
+Vial - Ink
+Waterskin x2</node>
+    <node name="Lang1">Clestial</node>
+    <node name="Lang2">Common *</node>
+    <node name="Lang3">Draconic</node>
+    <node name="Lang4">Dwarven</node>
+    <node name="Lang5">Infernal</node>
+  </data>
+</character>
